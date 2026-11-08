@@ -1,6 +1,6 @@
 # Hi, I'm Caleb Teeters 👋
 
-I'm a CS,IS, and DS student at the University of Pittsburgh interested in **Data Science, Artificial Intelligence, and Software Development**.
+I'm a CS, IS, and DS student at the University of Pittsburgh interested in **Data Science, Artificial Intelligence, and Software Development**.
 
 I enjoy building projects that use data and code to solve real-world problems, while continuing to expand my skills in machine learning, software development, and data analysis.
 
